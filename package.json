@@ -1,0 +1,11 @@
+{
+  "name": "simple-stake",
+  "description": "Simple staking contract",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^2.0.0",
+    "hardhat": "^2.20.1"
+  }
+}
